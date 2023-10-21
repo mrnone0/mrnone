@@ -1,0 +1,2 @@
+# mrnone
+run as admin
